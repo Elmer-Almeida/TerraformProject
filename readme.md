@@ -1,4 +1,4 @@
-# Terraform Project
+# Terraform Project for AWS
 
 This project creates two VPCs. In each VPC, there are 2 public subnets, an internet gateway, and 2 EC2 instances are created.
 
